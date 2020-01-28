@@ -152,3 +152,11 @@
         <hdrhistogram.version>2.1.11</hdrhistogram.version>
     </properties>
 </project>
+
+  <distributionManagement>
+    <snapshotRepository>
+      <id>devops-snapshot</id>
+      <name>devops-snapshot</name>
+      <url>http://localhost:8081/repository/devops-snapshot/</url>
+    </snapshotRepository>
+   </distributionManagement>
