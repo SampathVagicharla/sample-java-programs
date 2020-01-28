@@ -151,7 +151,6 @@
         <jcommander.version>1.72</jcommander.version>
         <hdrhistogram.version>2.1.11</hdrhistogram.version>
     </properties>
-</project>
 
   <distributionManagement>
     <snapshotRepository>
@@ -160,3 +159,4 @@
       <url>http://localhost:8081/repository/devops-snapshot/</url>
     </snapshotRepository>
    </distributionManagement>
+</project>
