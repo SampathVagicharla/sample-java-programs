@@ -154,7 +154,7 @@
 
   <distributionManagement>
     <snapshotRepository>
-      <id>devops-snapshot</id>
+      <id>java-samples</id>
       <name>devops-snapshot</name>
       <url>http://localhost:8081/repository/devops-snapshot/</url>
     </snapshotRepository>
